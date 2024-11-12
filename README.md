@@ -69,5 +69,3 @@ Si el ID (recruiting) existe, se llama a [cargarRecruitingPorID()](#19-carga-rec
 - **Propósito**: Carga la lista de nombres de empresas desde el backend, luego llama al [filtadoEmpresas()](#filtrad) para autocompletar
 
 ### 2 FILTRADO
-
-- **Propósito**
